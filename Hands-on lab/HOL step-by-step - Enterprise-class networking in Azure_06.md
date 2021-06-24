@@ -62,11 +62,11 @@ Duration: 15 minutes
 
 1.  Go to the WGVNetRG1 Group, and select **WGVNet1 Virtual Network** blade if you're not there already, and select **Subnets** under **Settings** on the left.
 
-    ![In the Virtual Network blade, under Settings, Subnets is selected.](images/Hands-onlabstep-by-step-Enterprise-classnetworkinginAzureimages/media/image28.png "Virtual Network blade")
+    ![In the Virtual Network blade, under Settings, Subnets is selected.](images/exercise1/task2_step1.png)
 
 2.  In the **Subnets** blade select **+Subnet**.
 
-    ![In the Subnets blade, the add Subnet button is selected.](images/Hands-onlabstep-by-step-Enterprise-classnetworkinginAzureimages/media/image29.png "Subnets blade")
+    ![In the Subnets blade, the add Subnet button is selected.](images/exercise1/task2_step2.png)
 
 3.  On the **Add subnet** blade, enter the following information:
 
@@ -82,7 +82,7 @@ Duration: 15 minutes
 
 4.  When your dialog looks like the following screenshot, select **Save** to create the subnet.
 
-    ![Field values in the Add Subnet blade are set to the previously defined settings.](images/Hands-onlabstep-by-step-Enterprise-classnetworkinginAzureimages/media/image30.png "Add Subnet blade")
+    ![Field values in the Add Subnet blade are set to the previously defined settings.](images/exercise1/task2_step3.png)
 
 5. Repeat Step 3, enter the following information for the Azure Firewall which we will use to control traffic flow in and out of the Network. 
 
@@ -96,5 +96,5 @@ Duration: 15 minutes
 
     -  Service Endpoints: **Leave as Default**
 
-    ![Field values in the Add Subnet blade are set to the previously defined settings.](images/Hands-onlabstep-by-step-Enterprise-classnetworkinginAzureimages/media/image159.png "Add Subnet blade")
+    ![Field values in the Add Subnet blade are set to the previously defined settings.](images/exercise1/task2_step4.png)
 
