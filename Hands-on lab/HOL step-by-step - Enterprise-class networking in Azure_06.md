@@ -59,16 +59,11 @@ Duration: 15 minutes
 11. Monitor the deployment status by selecting **Notifications Bell** at the top of the portal. In a minute or so, you should see a confirmation of the successful deployment. Select **Go to Resource**.
 
 ### Task 2: Configure subnets
-First Line 
-   Line 2 
- line 3 
-  line 4
-
 
 1.  Go to the WGVNetRG1 Group, and select **WGVNet1 Virtual Network** blade if you're not there already, and select **Subnets** under **Settings** on the left.
 
     ![In the Virtual Network blade, under Settings, Subnets is selected.](images/Hands-onlabstep-by-step-Enterprise-classnetworkinginAzureimages/media/image28.png "Virtual Network blade")
-14. Monitor the deployment status by selecting Notifications Bell at the top of the portal. In a minute or so, you should see a confirmation of the successful deployment. Select **Go to Resource**.
+
 2.  In the **Subnets** blade select **+Subnet**.
 
     ![In the Subnets blade, the add Subnet button is selected.](images/Hands-onlabstep-by-step-Enterprise-classnetworkinginAzureimages/media/image29.png "Subnets blade")
@@ -85,7 +80,7 @@ First Line
 
     -  Service Endpoints: **Leave as Default**.
 
-4.  When your dialog looks like the following screenshot, select **OK** to create the subnet.
+4.  When your dialog looks like the following screenshot, select **Save** to create the subnet.
 
     ![Field values in the Add Subnet blade are set to the previously defined settings.](images/Hands-onlabstep-by-step-Enterprise-classnetworkinginAzureimages/media/image30.png "Add Subnet blade")
 
