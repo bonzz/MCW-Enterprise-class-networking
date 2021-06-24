@@ -10,7 +10,7 @@ Duration: 15 minutes
 
     -  Subscription: **Select your subscription**.
   
-    -  Resource group: Select **Create new**, and enter the name **WGVNetRG1**.
+    -  Resource group: Select existing resource group with name **WGVNetRG1-{deploymentID}**.
 
     -  Name: **WGVNet1**
 
