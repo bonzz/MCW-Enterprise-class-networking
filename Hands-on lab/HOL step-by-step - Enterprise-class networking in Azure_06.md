@@ -48,7 +48,7 @@ Duration: 15 minutes
 
 8.  Leave the other options as default for now.
 
-    ![The create virtual network security dialog is displayed. The configuration options specified in the previous step are highlighted. ](images/Hands-onlabstep-by-step-Enterprise-classnetworkinginAzureimages/media/20201112virtualnetworksecurity.png "Create virtual network: Security")
+    ![In this screenshot, the 'Security' tab of the Azure portal's 'Create virtual network' blade is depicted with the configuration options specified in the previous step selected along with the 'Review + create' button.](images/Hands-onlabstep-by-step-Enterprise-classnetworkinginAzureimages/media/20201112virtualnetworksecurity.png "Create virtual network: Security")
 
 9.  Select **Review + Create**.
 
