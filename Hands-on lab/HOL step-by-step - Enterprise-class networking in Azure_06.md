@@ -20,13 +20,15 @@ Duration: 15 minutes
 
     ![In this screenshot, the Basics tab of the 'Create virtual network' blade is depicted with the configuration options specified in the previous selected and the 'Next: IP Addresses' button selected.](images/Hands-onlabstep-by-step-Enterprise-classnetworkinginAzureimages/media/20201112virtualnetworkbasic.png "Create virtual network: Basics")
    
-4.  On the **Create virtual network IP Addresses** tab, enter the following information:
+4.  On the **Create virtual network - IP Addresses** tab, enter the following information:
 
-    -  Address space: **10.7.0.0/20**
+    -  IPv4 Address space: **10.7.0.0/20**
 
-    -  Subnet name: **GatewaySubnet** (Select the **default** name and change to this name.)
+    - Select **+ Add subnet** then enter the following information and select **Add**. 
 
-    -  Subnet address range: **10.7.0.0/29**
+      - Subnet name: **GatewaySubnet**
+
+      - Subnet address range: **10.7.0.0/29**
 
 5.  Select **Next: Security**.
 
