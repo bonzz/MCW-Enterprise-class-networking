@@ -18,7 +18,7 @@ Duration: 15 minutes
 
 3.  Select **Next: IP Addresses**
 
-    ![The create virtual network basic dialog is displayed. The configuration options specified in the previous step are highlighted. ](images/Hands-onlabstep-by-step-Enterprise-classnetworkinginAzureimages/media/20201112virtualnetworkbasic.png "Create virtual network: Basics")
+    ![In this screenshot, the Basics tab of the 'Create virtual network' blade is depicted with the configuration options specified in the previous selected and the 'Next: IP Addresses' button selected.](images/Hands-onlabstep-by-step-Enterprise-classnetworkinginAzureimages/media/20201112virtualnetworkbasic.png "Create virtual network: Basics")
    
 4.  On the **Create virtual network IP Addresses** tab, enter the following information:
 
