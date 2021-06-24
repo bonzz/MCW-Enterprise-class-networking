@@ -34,7 +34,7 @@ Duration: 15 minutes
 
     ![The create virtual network IP addresses dialog is displayed. The configuration options specified in the previous step are highlighted. ](images/Hands-onlabstep-by-step-Enterprise-classnetworkinginAzureimages/media/20201112virtualnetworkipaddresses.png "Create virtual network: IP Addresses")
 
-6.  On the **Create virtual network Security** tab, select **Enable** for BastionHost.
+6.  On the **Create virtual network Security** tab, select **Enable** for **BastionHost**.
 
 7.  Enter the following information:
 
